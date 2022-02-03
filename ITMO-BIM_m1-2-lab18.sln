@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO-BIM_m1-2-lab18", "ITMO-BIM_m1-2-lab18\ITMO-BIM_m1-2-lab18.csproj", "{FB9EDC48-E2B1-4FDF-A4DF-B5072F9CB089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9EDC48-E2B1-4FDF-A4DF-B5072F9CB089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9EDC48-E2B1-4FDF-A4DF-B5072F9CB089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9EDC48-E2B1-4FDF-A4DF-B5072F9CB089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9EDC48-E2B1-4FDF-A4DF-B5072F9CB089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9049085D-D0E1-400E-826F-6474398D8270}
+	EndGlobalSection
+EndGlobal
